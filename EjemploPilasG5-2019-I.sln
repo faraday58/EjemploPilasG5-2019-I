@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploPilasG5-2019-I", "EjemploPilasG5-2019-I\EjemploPilasG5-2019-I.csproj", "{1D5C173A-20B0-4739-8B74-CE53A72CFBDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormMascotas", "FormMascotas\FormMascotas.csproj", "{F070EF03-63E9-413B-92CF-EC7E400CFE39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibMascotas", "LibMascotas\LibMascotas.csproj", "{4EB5FA90-D153-4628-B995-87DB6D00DEC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1D5C173A-20B0-4739-8B74-CE53A72CFBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D5C173A-20B0-4739-8B74-CE53A72CFBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D5C173A-20B0-4739-8B74-CE53A72CFBDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F070EF03-63E9-413B-92CF-EC7E400CFE39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F070EF03-63E9-413B-92CF-EC7E400CFE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F070EF03-63E9-413B-92CF-EC7E400CFE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F070EF03-63E9-413B-92CF-EC7E400CFE39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB5FA90-D153-4628-B995-87DB6D00DEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB5FA90-D153-4628-B995-87DB6D00DEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB5FA90-D153-4628-B995-87DB6D00DEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB5FA90-D153-4628-B995-87DB6D00DEC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
